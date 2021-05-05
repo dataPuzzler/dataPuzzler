@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lukas
-- 👀 I’m interested in Web-Dev and Data Analytics Topics ...
-- 🌱 I’m currently learning Javascript (around React, Gatsby) and Python (Pyspark)...
-- 📫 How to reach me dataPuzzler@gmail.com
+- an aspiring Software Engineer with Focus on the ecosystems around Python and Javascript.
+- I consider life as a puzzle of sense data, hence this name. 
+- 📫 You can reach me via dataPuzzler@gmail.com
 
 <!---
 dataPuzzler/dataPuzzler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
