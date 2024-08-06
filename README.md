@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lukas
-- an aspiring Software Engineer with Focus on the ecosystems around Python and Javascript.
+- an aspiring Software Engineer with focus on the ecosystems around Python and Javascript.
 - I consider life as a puzzle of sense data, hence this name. 
 - 📫 You can reach me via dataPuzzler@gmail.com
 
